@@ -6,12 +6,8 @@ public class Koder {
         System.out.println("Vvedi parolj для регистрации : ");
         String registrationPassword = new Scanner(System.in).nextLine();
 
-
-
-
-
-
-        while (true) {
+//        while (true) {
+        {
             System.out.println("Hotitew podskazku? da или net");
             String choice = new Scanner(System.in).nextLine();
 
